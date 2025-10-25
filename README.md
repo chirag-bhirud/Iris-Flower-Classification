@@ -1,24 +1,28 @@
 # Iris Flower Classification – Mini Project
 
-## 🌸 Project Overview
+# Project Overview
 This mini project predicts the type of **Iris flower** (Setosa, Versicolor, or Virginica) using a simple machine learning model — Random Forest Classifier.
 
 ---
 
-## ⚙️ Approach
+# Approach
 1. **Dataset Used:** Built-in Iris dataset from Seaborn
-2. **Data Preparation:**
+2. 
+3. **Data Preparation:**
    - Encoded species names into numbers
    - Split dataset into training and testing parts (80/20)
-3. **Model:** Random Forest Classifier
-4. **Evaluation:** Accuracy score, confusion matrix, and classification report
-5. **Visualizations:**
+   - 
+4. **Model:** Random Forest Classifier
+5. 
+6. **Evaluation:** Accuracy score, confusion matrix, and classification report
+7. 
+8. **Visualizations:**
    - Pairplot for feature relationships  
    - Feature importance bar chart
 
 ---
 
-## ▶️ How to Run
+# How to Run
 
 ### 1. Install Required Libraries
 ```bash
@@ -38,13 +42,7 @@ python iris_classification.py
 
 ---
 
-## 📊 Sample Output
+# Sample Output
 ```
-✅ Model Accuracy: 96.67%
+Model Accuracy: 96.67%
 ```
-
----
-
-## 👤 Author
-Your Name  
-Mini Project – Machine Learning and Data Modeling & Visualization
